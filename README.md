@@ -1,3 +1,4 @@
+![Briskbear](https://dc-dynamic-marketing.com/polar-bear.svg)  
 [BriskBear](https://github.com/briskbear)  
 ```bash
     : << :
