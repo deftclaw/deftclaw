@@ -6,11 +6,6 @@
   It is quick and neat
   :
 ```
-```ruby
-def ducktales
-  puts 'WooHoo!'
-end
-```
 
 Give me access with:  
 
