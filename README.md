@@ -1,10 +1,10 @@
 [![Briskbear](https://dc-dynamic-marketing.com/polar-bear.svg)](https://github.com/briskbear)  
 ```bash
-    : << :
-    Fancy block comment
-    Uses colon as a quote
-    It is quick and neat
-    :
+  : << :
+  Fancy block comment
+  Uses colon as a quote
+  It is quick and neat
+  :
 ```
 
 **deftclaw/deftclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
