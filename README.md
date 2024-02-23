@@ -7,12 +7,12 @@
   :
 ```
 ```suggestion
-```diff&ruby
+```ruby
 def ducktales
   puts "woohoo!"
 end
 ```
-```
+
 
 
 Give me access with:  
