@@ -7,9 +7,9 @@
   :
 ```
 ```suggestion
-+ def ducktales
-+   puts "woohoo!"
-+ end
+def ducktales
+  puts "woohoo!"
+end
 ```
 
 
