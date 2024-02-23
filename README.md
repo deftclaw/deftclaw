@@ -7,7 +7,7 @@
   :
 ```
 ```suggestion
-```ruby
+```diff&ruby
 def ducktales
   puts "woohoo!"
 end
