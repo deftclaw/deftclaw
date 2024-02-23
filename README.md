@@ -7,9 +7,11 @@
   :
 ```
 ```suggestion
+```ruby
 def ducktales
   puts "woohoo!"
 end
+```
 ```
 
 
