@@ -6,6 +6,12 @@
   It is quick and neat
   :
 ```
+```suggestion
++ def ducktales
++   puts "woohoo!"
++ end
+```
+
 
 Give me access with:  
 
