@@ -1,4 +1,4 @@
-[![Briskbear](https://dc-dynamic-marketing.com/polar-bear.svg)](https://github.com/briskbear/briskbear)  
+[![Briskbear](http://dc-dynamic-marketing.com/polar-bear.svg)](https://github.com/briskbear/briskbear)  
 ```bash
   : << :
   Fancy block comment
